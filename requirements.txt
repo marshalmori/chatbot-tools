@@ -5,3 +5,5 @@ langsmith
 langchain
 langchain-groq
 langchain-community
+arxiv
+wikipedia
